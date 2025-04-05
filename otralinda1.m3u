@@ -135,6 +135,8 @@ http://38.187.2.125:8000/play/a0el
 http://38.187.2.125:8000/play/a0dh
 #EXTINF:-1,Sin Limites
 http://38.187.2.125:8000/play/a07e
+EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0on.png",Señal Colombia
+http://190.60.34.46:9999/play/a0on/index.m3u8
 #EXTINF:-1,Sony HD
 http://38.187.2.125:8000/play/a0if
 #EXTINF:-1,Space HD

@@ -183,6 +183,20 @@ http://190.60.34.46:9999/play/a0w1
 http://190.60.34.46:9999/play/a0oy
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0op.png",Telepacifico
 http://190.60.34.46:9999/play/a0op
+#EXTINF:-1 group-title="-",ULTRA CLASICOS  MGNT
+http://190.61.116.105:8002/play/a02e/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CINEMA ESTE HD
+http://190.61.116.105:8002/play/a0ib/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL COMEDY HD
+http://190.61.116.105:8002/play/a0gv/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CRIME HD
+http://190.61.116.105:8002/play/a0gu/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE HD
+http://190.61.116.105:8002/play/a0gr/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE O HD
+http://190.61.116.105:8002/play/a0gs/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL REALITY HD
+http://190.61.116.105:8002/play/a0gt/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://38.187.2.125:8000/play/a0f5
 #EXTINF:-1,ViaX

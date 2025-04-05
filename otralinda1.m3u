@@ -168,21 +168,21 @@ http://38.187.2.125:8000/play/a09z
 #EXTINF:-1,TyC
 http://38.187.2.125:8000/play/a07q
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0os.png",Telecafe
-http://190.60.34.46:9999/play/a0os/index.m3u8
+http://190.60.34.46:9999/play/a0os
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0vo.png",Telecanal
-http://190.60.34.46:9999/play/a0vo/index.m3u8
+http://190.60.34.46:9999/play/a0vo
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0oo.png",Telecaribe
-http://190.60.34.46:9999/play/a0oo/index.m3u8
+http://190.60.34.46:9999/play/a0oo
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0w3.png",TelefØ
-http://190.60.34.46:9999/play/a0w3/index.m3u8
+http://190.60.34.46:9999/play/a0w3
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0ov.png",Teleislas
-http://190.60.34.46:9999/play/a0ov/index.m3u8
+http://190.60.34.46:9999/play/a0ov
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0w1.png",Telemundo
-http://190.60.34.46:9999/play/a0w1/index.m3u8
+http://190.60.34.46:9999/play/a0w1
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0oy.png",Telenovelas
-http://190.60.34.46:9999/play/a0oy/index.m3u8
+http://190.60.34.46:9999/play/a0oy
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0op.png",Telepacifico
-http://190.60.34.46:9999/play/a0op/index.m3u8
+http://190.60.34.46:9999/play/a0op
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://38.187.2.125:8000/play/a0f5
 #EXTINF:-1,ViaX

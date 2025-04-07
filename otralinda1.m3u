@@ -113,6 +113,8 @@ http://38.187.2.125:8000/play/a0da
 http://38.187.2.125:8000/play/a0eo
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0on.png",Señal Colombia
 http://190.60.34.46:9999/play/a0on
+#EXTINF:-1,MEMORIAS TV HD (1) ==> FOUND ON SEARCHTV.NET
+http://38.252.213.10:9000/play/a006
 #EXTINF:-1,MEGA HD
 http://38.187.2.125:8000/play/a0dc
 #EXTINF:-1,MTV HD

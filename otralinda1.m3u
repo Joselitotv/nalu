@@ -73,8 +73,8 @@ http://38.187.2.125:8000/play/a0i4
 http://38.187.2.125:8000/play/a0cz
 #EXTINF:-1,ESPN 7
 http://38.187.2.125:8000/play/a07z
-#EXTINF:-1,ESPN HD
-http://38.187.2.125:8000/play/a0d5
+#EXTINF:-1 group-title="-",ESPN HD
+http://181.198.105.69:8111/play/a15p
 #EXTINF:-1 group-title="-",ESPN HD
 http://181.198.105.69:8111/play/a1ua
 #EXTINF:-1,ESPN Premium HD

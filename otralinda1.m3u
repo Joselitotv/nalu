@@ -226,9 +226,9 @@ http://38.187.2.125:8000/play/a07x
 http://38.187.2.125:8000/play/a0di
 #EXTINF:-1,Willax
 http://38.187.2.125:8000/play/a034
-EXTINF:-1,Win Sports HD 
-http://45.238.146.131:8008/play/a00h
 #EXTINF:-1,Win Sports+
 http://38.187.2.125:8000/play/a0c6
 #EXTINF:-1,Win Sports+ HD
 http://190.60.41.107:8000/play/a0fi
+EXTINF:-1,Win Sports HD 
+http://45.238.146.131:8008/play/a00h

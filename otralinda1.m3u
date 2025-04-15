@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",+CINE CLASSIC HD
-http://38.252.213.12:8000/play/a05t
-#EXTINF:-1 group-title="-",+CINE FAMILY HD 
-http://38.252.213.12:8000/play/a06y
-#EXTINF:-1 group-title="-",+CINE HD
-http://38.252.213.12:8000/play/a057
-#EXTINF:-1 group-title="-",+CINE TERROR HD
-http://38.252.213.12:8000/play/a00w
-#EXTINF:-1 group-title="-",24 HORAS HD
-http://38.252.213.12:8000/play/a02v
 #EXTINF:-1 group-title="-",A&E HD
 http://38.252.213.12:8000/play/a01t
 #EXTINF:-1 group-title="-",AGROTENDENCIA HD
@@ -27,6 +17,16 @@ http://38.252.213.12:8000/play/a01j
 http://38.252.213.12:8000/play/a02o
 #EXTINF:-1 group-title="-",BETHEL TV HD
 http://38.252.213.12:8000/play/a008
+#EXTINF:-1 group-title="-",+CINE CLASSIC HD
+http://38.252.213.12:8000/play/a05t
+#EXTINF:-1 group-title="-",+CINE FAMILY HD 
+http://38.252.213.12:8000/play/a06y
+#EXTINF:-1 group-title="-",+CINE HD
+http://38.252.213.12:8000/play/a057
+#EXTINF:-1 group-title="-",+CINE TERROR HD
+http://38.252.213.12:8000/play/a00w
+#EXTINF:-1 group-title="-",24 HORAS HD
+http://38.252.213.12:8000/play/a02v
 #EXTINF:-1 group-title="-",CARACOL TV HD
 http://38.252.213.12:8000/play/a00h
 #EXTINF:-1 group-title="-",CGTN ES HD

@@ -240,7 +240,6 @@ http://38.252.213.12:8000/play/a00c
 http://38.252.213.12:8000/play/a01o
 #EXTINF:-1 group-title="-",TV AGRO HD
 http://38.252.213.12:8000/play/a02g
-
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0os.png",Telecafe
 http://190.60.34.46:9999/play/a0os/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0vo.png",Telecanal

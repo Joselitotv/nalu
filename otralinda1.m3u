@@ -43,6 +43,12 @@ http://38.252.213.12:8000/play/a05u
 http://38.252.213.12:8000/play/a02i
 #EXTINF:-1 group-title="-",Cinecanal Colombia
 http://38.252.213.12:8000/play/a053
+#EXTINF:-1 group-title="-",DSPORTS +
+http://190.216.162.156:8001/play/a05h
+#EXTINF:-1 group-title="-",DSPORTS 1
+http://190.216.162.156:8001/play/a09s
+#EXTINF:-1 group-title="-",DSPORTS 2
+http://190.216.162.156:8001/play/a05g
 #EXTINF:-1 group-title="-",DHE
 http://38.252.213.12:8000/play/a01g
 #EXTINF:-1 group-title="-",DISCIVERY THEATER HD

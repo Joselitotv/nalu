@@ -5,6 +5,8 @@ http://38.252.213.12:8000/play/a01t
 http://38.252.213.12:8000/play/a001
 #EXTINF:-1 group-title="-",AMC HD
 http://190.93.229.21:8000/play/a0on
+#EXTINF:-1 group-title="-",America TV HD
+http://190.216.162.156:8001/play/a04i
 #EXTINF:-1 group-title="-",AMERICA
 http://209.45.91.206:15000/play/a09t
 #EXTINF:-1 group-title="-",ANIRETRO HD

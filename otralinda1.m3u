@@ -316,3 +316,5 @@ http://38.187.2.125:8000/play/a0c6
 http://190.60.41.107:8000/play/a0fi
 EXTINF:-1,Win Sports HD 
 http://45.238.146.131:8008/play/a00h
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN SPORTS+" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus.png" group-title="COLOMBIA",WIN SPORTS+
+http://190.119.43.180:8100/play/a0ln

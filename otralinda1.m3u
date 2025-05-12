@@ -342,15 +342,7 @@ http://181.198.67.62:8000/play/a03d
 http://canal-pro.xyz:8080/74macu58ge56ha48/37wepe98maze34/697
 #EXTINF:-1,24/7*Dragon Ball Super
 http://canal-pro.xyz:8080/74macu58ge56ha48/37wepe98maze34/250491
-#EXTINF:-1, ESPN BR
+#EXTINF:-1, ESPN BR prueba
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8baecfdd0474d238b2032cd45da8449:dae1e747d6e4d761c2ad3c33961bfe34
 http://45.140.193.17/sky/play.php?cid=CH0100000000016&mpd&decryption_key=c8baecfdd0474d238b2032cd45da8449:dae1e747d6e4d761c2ad3c33961bfe34,c0634d2e0d3c36f897787d6f29ea0802:2c6e17231ca388563c15c09a8f0bb1fa,
-EXTM3U
-#EXTINF:-1,DIRECTVSPORT prueba
-http://45.140.193.17/sky/play.php?cid=CH0100000000157&mpd&decryption_key=dea4705b353a4e4cb734ef2845217966:69edf957d17590f507a171bce9c56856,533de0c3a6fd523bbcdd1d450ef0ed21:b5a645df77c37e24ae3fc40231472770,
-
-https://0135-aws-da-bpk.vrioott.com/f9028faec74be6eccf7d7910be946f4d/out/v1/98edce3905774ea3b1cc7af8b2c49054/manifest.mpd?hdnts=exp%3D1747079956%7Eacl%3D%2F%2A%7Eid%3D74fa2046-36c9-56ff-873e-c00f5d14b631%7Ehmac%3D7d54f1c351e16ea6237787f938fe0fc0019d862d7d6450d049a8e82c8f0bc0c6
-
-kid:key:
-kid: dea4705b353a4e4cb734ef2845217966, key: 69edf957d17590f507a171bce9c56856, kid: 533de0c3a6fd523bbcdd1d450ef0ed21, key: b5a645df77c37e24ae3fc40231472770'

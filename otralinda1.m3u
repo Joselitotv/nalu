@@ -351,3 +351,5 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
 #EXTM3U
 #EXTINF:-1,TNT Sports Premiun HD
 http://45.224.96.65:8011/play/a0du
+#EXTINF:-1,Directv Sport+HD 
+http://38.172.128.32:2233/play/a1ez

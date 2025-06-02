@@ -295,6 +295,8 @@ http://190.60.34.46:9999/play/a0vs/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0vz.png",Tooncast
 http://190.60.34.46:9999/play/a0vz/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0p9.png",TyC Sports
+#EXTINF:-1,TNT HD (0cno1xvo) ==> FOUND ON SEARCHTV.NET
+http://38.7.204.227:8011/play/a2l
 #EXTINF:-1,TCM HD 
 http://181.78.14.26:8000/play/a04d
 #EXTINF:-1,TV PERU

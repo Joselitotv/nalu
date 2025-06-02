@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",A&E HD
-http://38.252.213.12:8000/play/a01t
+http://190.119.40.74:8200/play/a0kl
 #EXTINF:-1 group-title="-",AGROTENDENCIA HD
 http://38.252.213.12:8000/play/a001
 #EXTINF:-1 group-title="-",AMC HD
-http://190.93.229.21:8000/play/a0on
+http://190.119.40.74:8200/play/a0kx
 #EXTINF:-1 group-title="-",America TV HD
 http://190.216.162.156:8001/play/a04i
 #EXTINF:-1 group-title="-",AMERICA
@@ -49,6 +49,8 @@ http://38.252.213.12:8000/play/a053
 http://38.199.6.1:17001/play/a0d0
 #EXTINF:-1,DSPORTS
 http://179.51.136.19:8000/play/DSPORTS1
+#EXTINF:-1,De PelŦcula
+http://190.119.40.74:8200/play/a0wr
 #EXTINF:-1 group-title="-",DSPORT 14
 http://179.63.6.17:9000/play/a08e
 #EXTINF:-1 group-title="-",DSPORTS +
@@ -252,6 +254,8 @@ http://38.252.213.12:8000/play/a02d
 http://38.252.213.12:8000/play/a05l
 #EXTINF:-1 group-title="-",RUMBA TV HD
 http://38.252.213.12:8000/play/a01c
+#EXTINF:-1,Space HD
+http://190.119.40.74:8200/play/a0a i96751414
 #EXTINF:-1 group-title="-",SONY CHANNEL  IPTV
 http://38.252.213.12:8000/play/a06f
 #EXTINF:-1 group-title="-",SONY CHANNEL HD
@@ -295,8 +299,8 @@ http://190.60.34.46:9999/play/a0vs/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0vz.png",Tooncast
 http://190.60.34.46:9999/play/a0vz/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0p9.png",TyC Sports
-#EXTINF:-1,TNT HD (0cno1xvo) ==> FOUND ON SEARCHTV.NET
-http://38.7.204.227:8011/play/a2l
+#EXTINF:-1,TNT HD
+http://190.119.40.74:8200/play/a0ck
 #EXTINF:-1,TCM HD 
 http://181.78.14.26:8000/play/a04d
 #EXTINF:-1,TV PERU

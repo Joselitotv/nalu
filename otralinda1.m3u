@@ -202,14 +202,20 @@ http://38.252.213.12:8000/play/a05d
 http://38.252.213.12:8000/play/a05y
 #EXTINF:-1 group-title="-",GARAGE TV HD
 http://38.252.213.12:8000/play/a01w
-#EXTINF:-1 group-title="-",HBO FAMILY HD
-http://38.252.213.12:8000/play/a055
+#EXTINF:-1 group-title="-",HBO Family HD
+http://190.119.168.226:8000/play/a071
 #EXTINF:-1 group-title="-",HBO HD
-http://38.252.213.12:8000/play/a022
+http://190.119.168.226:8000/play/a06g
+#EXTINF:-1 group-title="-",HBO HD
+http://190.119.168.226:8000/play/a03w
+#EXTINF:-1 group-title="-",HBO MUNDI
+http://190.119.168.226:8000/play/a05j
 #EXTINF:-1 group-title="-",HBO POP HD
-http://38.252.213.12:8000/play/a025
+http://190.119.168.226:8000/play/a06t
+#EXTINF:-1 group-title="-",HBO Signature
+http://190.119.168.226:8000/play/a09u
 #EXTINF:-1 group-title="-",HBO XTREME HD
-http://38.252.213.12:8000/play/a00e
+http://190.119.168.226:8000/play/a072
 #EXTINF:-1 group-title="-",HISTORY
 http://38.252.213.12:8000/play/a02k
 #EXTINF:-1 group-title="-",HISTORY 2 

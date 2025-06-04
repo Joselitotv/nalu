@@ -309,8 +309,8 @@ http://190.60.34.46:9999/play/a0vs/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0vz.png",Tooncast
 http://190.60.34.46:9999/play/a0vz/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0p9.png",TyC Sports
-#EXTINF:-1,TNT HD
-http://190.119.40.74:8200/play/a0ck
+#EXTINF:-1 group-title="-",TNT
+http://181.78.49.179:8000/play/a03q
 #EXTINF:-1,TCM HD 
 http://181.78.14.26:8000/play/a04d
 #EXTINF:-1,TV PERU

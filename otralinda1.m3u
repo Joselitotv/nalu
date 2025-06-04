@@ -208,6 +208,8 @@ http://190.119.168.226:8000/play/a071
 http://190.119.168.226:8000/play/a06g
 #EXTINF:-1 group-title="-",HBO HD
 http://190.119.168.226:8000/play/a03w
+#EXTINF:-1,HBO Plus (1hk5kt9l) ==> FOUND ON SEARCHTV.NET
+http://45.185.160.142:4001/play/a0lr
 #EXTINF:-1 group-title="-",HBO MUNDI
 http://190.119.168.226:8000/play/a05j
 #EXTINF:-1 group-title="-",HBO POP HD

@@ -57,8 +57,8 @@ http://190.119.40.74:8200/play/a0wr
 http://179.63.6.17:9000/play/a08e
 #EXTINF:-1 group-title="-",DSPORTS +
 http://190.216.162.156:8001/play/a05h
-#EXTINF:-1 group-title="-",DSPORTS 1
-http://190.216.162.156:8001/play/a09s
+#EXTINF:-1 group-title="-",DSPORTS 
+http://172.93.102.112:8989/279390_.m3u8
 #EXTINF:-1 group-title="-",DSPORTS 2
 http://190.216.162.156:8001/play/a05g
 #EXTINF:-1 group-title="-",DHE

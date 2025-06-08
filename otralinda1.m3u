@@ -17,8 +17,8 @@ http://38.252.213.12:8000/play/a06i
 http://38.252.213.12:8000/play/a02q
 #EXTINF:-1 group-title="-",ATV+ HD
 http://38.252.213.12:8000/play/a01j
-#EXTINF:-1 group-title="-",AXN HD
-http://38.252.213.12:8000/play/a02o
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqP3U5A6w9ZZi9zmq_hyQjH8nma6k4shLd3pxCPE-977IRXWWJYgkLLY&s=10",AXN
+http://181.188.234.21:8000/play/a04h
 #EXTINF:-1 group-title="-",BETHEL TV HD
 http://38.252.213.12:8000/play/a008
 #EXTINF:-1 group-title="-",+CINE CLASSIC HD
@@ -45,8 +45,10 @@ http://38.252.213.12:8000/play/a02n
 http://38.252.213.12:8000/play/a05u
 #EXTINF:-1 group-title="-",CUBAVISION HD
 http://38.252.213.12:8000/play/a02i
-#EXTINF:-1 group-title="-",Cinecanal Colombia
-http://38.252.213.12:8000/play/a053
+#EXTINF:-1 tvg-name="CINECANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4-mVY2sfIXF2grqXAImmFgvU7a0ezriLqg&usqp=CAU",CINECANAL
+https://livetv.topmediatv.net:443/TopMediaV2/MuwpDJdMm1/10
+#EXTINF:-1 tvg-id="CinemaxSouth.us" tvg-name="cinemax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5LVxGGnW0PWLMDnsxEfQm1NUTfQ52WOSR_Svchb7oHnXoCPaAIcL6Tk&s=10",Cinemax
+http://177.93.46.163:8000/play/a020
 #EXTINF:-1,DirecTV Sports ENCODER HD (1) ==> FOUND ON SEARCHTV.NET
 http://38.199.6.1:17001/play/a0d0
 #EXTINF:-1,DSPORTS
@@ -71,6 +73,8 @@ http://38.252.213.12:8000/play/a058
 http://38.252.213.12:8000/play/a01x
 #EXTINF:-1 group-title="-",DISNEY CHANNEL HD
 http://38.252.213.12:8000/play/a04r
+#EXTINF:-1 tvg-id="I489.16288.schedulesdirect.org" tvg-name="de película" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png",De Película
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312786
 #EXTINF:-1 group-title="-",ELGOUERMET HD
 http://38.252.213.12:8000/play/a020
 #EXTINF:-1,ESPN 2 HD
@@ -272,8 +276,8 @@ http://38.252.213.12:8000/play/a01i
 http://38.252.213.12:8000/play/a05a
 #EXTINF:-1 group-title="-",STAR Peru
 http://38.252.213.12:8000/play/a05r
-#EXTINF:-1 group-title="-",STUDIO UNIVERSAL HD
-http://38.252.213.12:8000/play/a05k
+#EXTINF:-1 tvg-id="I603.90605.schedulesdirect.org" tvg-name="studio universal" tvg-logo="http://3.bp.blogspot.com/-KDeHIqXKzfQ/ThNLgA6wOlI/AAAAAAAAPyE/W9XoHa0HkuU/s1600/studiouniversal.png",Studio Universal
+http://177.93.46.163:8000/play/a00r
 #EXTINF:-1 group-title="-",SUN CHANNEL HD
 http://38.252.213.12:8000/play/a05j
 #EXTINF:-1 group-title="-",TELENOSTALGIA HD
@@ -307,8 +311,8 @@ http://190.60.34.46:9999/play/a0vs/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0vz.png",Tooncast
 http://190.60.34.46:9999/play/a0vz/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0p9.png",TyC Sports
-#EXTINF:-1 group-title="-",TNT
-http://38.191.228.9:8200/play/a0pp
+#EXTINF:-1 tvg-id="I435.80807.schedulesdirect.org" tvg-name="tn*t" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT
+http://177.93.46.163:8000/play/a00e
 #EXTINF:-1,TCM HD 
 http://181.78.14.26:8000/play/a04d
 #EXTINF:-1,TV PERU
@@ -321,8 +325,8 @@ http://38.187.2.125:8000/play/a081
 http://38.187.2.125:8000/play/a09z
 #EXTINF:-1,TyC
 http://38.187.2.125:8000/play/a07q
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://38.187.2.125:8000/play/a0f5
+#EXTINF:-1 tvg-id="I642.84425.schedulesdirect.org" tvg-name="universal channel" tvg-logo="http://1.bp.blogspot.com/-vZ7-rkLTaQA/TgeZExzxYcI/AAAAAAAABpM/ZtVIi2OJm2o/s1600/Universal+Channel+logo+2010.png",Universal Channel
+http://177.93.46.163:8000/play/a008
 #EXTINF:-1,UNIVERSAL CINEMA ESTE HD
 http://179.63.6.17:9000/play/a08h
 #EXTINF:-1,UNIVERSAL COMEDY HD
@@ -337,8 +341,8 @@ http://181.78.17.52:8000/play/a0u1
 http://181.78.17.52:8000/play/a0u2
 #EXTINF:-1,ViaX
 http://38.187.2.125:8000/play/a07x
-#EXTINF:-1,Warner Channel HD
-http://38.187.2.125:8000/play/a0di
+#EXTINF:-1 tvg-id="I605.111860.schedulesdirect.org" tvg-name="warner channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
+http://177.93.46.163:8000/play/a011
 #EXTINF:-1,Willax
 http://38.187.2.125:8000/play/a034
 #EXTINF:-1,Win Sports+

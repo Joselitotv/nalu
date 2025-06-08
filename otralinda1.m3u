@@ -202,26 +202,20 @@ http://38.252.213.12:8000/play/a00p
 http://38.252.213.12:8000/play/a05d
 #EXTINF:-1,Love NatureHD 
 http://170.254.234.243:8888/play/a00r
-#EXTINF:-1 group-title="-",Fx
-http://38.252.213.12:8000/play/a05y
+#EXTINF:-1 tvg-id="I217.49336.schedulesdirect.org" tvg-name="fx" tvg-logo="https://vignette.wikia.nocookie.net/iceagefanon/images/d/d7/Fx-logo.png/revision/latest?cb=20151205215619",FX
+http://177.234.230.206:8011/play/a0k5/index.m3u8
 #EXTINF:-1 group-title="-",GARAGE TV HD
 http://38.252.213.12:8000/play/a01w
-#EXTINF:-1 group-title="-",HBO Family HD
-http://190.119.168.226:8000/play/a071
-#EXTINF:-1 group-title="-",HBO HD
-http://190.119.168.226:8000/play/a06g
-#EXTINF:-1 group-title="-",HBO HD
-http://190.119.168.226:8000/play/a03w
-#EXTINF:-1,HBO Plus (1hk5kt9l) ==> FOUND ON SEARCHTV.NET
-http://45.185.160.142:4001/play/a0lr
-#EXTINF:-1 group-title="-",HBO MUNDI
-http://190.119.168.226:8000/play/a05j
-#EXTINF:-1 group-title="-",HBO POP HD
-http://190.119.168.226:8000/play/a06t
-#EXTINF:-1 group-title="-",HBO Signature
-http://190.119.168.226:8000/play/a09u
-#EXTINF:-1 group-title="-",HBO XTREME HD
-http://190.119.168.226:8000/play/a072
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoiQ_vs3tYz-7-yPug63X4XMDp8ctsZKB6fE2MPGyJlSACBvmBG3Epm8&s=10",HBO
+https://livetv.topmediatv.net:443/TopMediaV2/MuwpDJdMm1/31
+#EXTINF:-1 tvg-name="HBO2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8Xom4jPZpz-LX0yPLxUcuc90K3R7P1zC4w&usqp=CAU",HBO 2
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302665
+#EXTINF:-1 tvg-name="HBO PLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2sCmgBQ3pme8ph_nZoeYBh-h_fVFI_cYprhz32im6PLPqTzSuc--CDI&s=10",HBO PLUS
+https://livetv.topmediatv.net:443/TopMediaV2/MuwpDJdMm1/35
+#EXTINF:-1 tvg-name="HBO EXTREME" tvg-logo="https://iili.io/HvUnRDJ.png",HBO EXTREME
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302666
+#EXTINF:-1 tvg-id="I304.57396.schedulesdirect.org" tvg-name="hbo family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png",HBO Family
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302667
 #EXTINF:-1 group-title="-",HISTORY
 http://38.252.213.12:8000/play/a02k
 #EXTINF:-1 group-title="-",HISTORY 2 
@@ -268,8 +262,8 @@ http://38.252.213.12:8000/play/a02d
 http://38.252.213.12:8000/play/a05l
 #EXTINF:-1 group-title="-",RUMBA TV HD
 http://38.252.213.12:8000/play/a01c
-#EXTINF:-1,Space HD
-http://190.119.40.74:8200/play/a0a i96751414
+#EXTINF:-1 tvg-id="I1518.103379.schedulesdirect.org" tvg-name="space" tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png",Space
+http://200.60.124.19:29000/play/a028/index.m3u8
 #EXTINF:-1 group-title="-",SONY CHANNEL  IPTV
 http://38.252.213.12:8000/play/a06f
 #EXTINF:-1 group-title="-",SONY CHANNEL HD

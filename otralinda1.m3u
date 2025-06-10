@@ -224,8 +224,6 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302667
 http://38.252.213.12:8000/play/a02k
 #EXTINF:-1 tvg-id="History 2" tvg-name="PL: HISTORY 2" tvg-logo="https://docdog.top/logo/countries/poland/h2.png" group-title="PL | DOKUMENTALNE VIP",  : HISTORY 2
 http://38.252.213.12:8000/play/a02l
-#EXTINF:-1 group-title="-",HISTORY IPTV
-http://38.252.213.12:8000/play/a06e
 #EXTINF:-1 group-title="-",HOGAR TV HD
 http://38.252.213.12:8000/play/a059
 #EXTINF:-1 group-title="-",IPE HD

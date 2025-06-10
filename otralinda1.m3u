@@ -290,28 +290,22 @@ http://38.252.213.12:8000/play/a06h
 http://38.252.213.12:8000/play/a00c
 #EXTINF:-1 group-title="-",TLMUNDO
 http://38.252.213.12:8000/play/a01o
-#EXTINF:-1 group-title="-",TV AGRO HD
-http://38.252.213.12:8000/play/a02g
-#EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0os.png",Telecafe
-http://190.60.34.46:9999/play/a0os/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0vo.png",Telecanal
-http://190.60.34.46:9999/play/a0vo/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0oo.png",Telecaribe
-http://190.60.34.46:9999/play/a0oo/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0w3.png",TelefØ
-http://190.60.34.46:9999/play/a0w3/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0ov.png",Teleislas
-http://190.60.34.46:9999/play/a0ov/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0w1.png",Telemundo
-http://190.60.34.46:9999/play/a0w1/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0oy.png",Telenovelas
-http://190.60.34.46:9999/play/a0oy/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0op.png",Telepacifico
-http://190.60.34.46:9999/play/a0op/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0vs.png",Telesur
-http://190.60.34.46:9999/play/a0vs/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0vz.png",Tooncast
-http://190.60.34.46:9999/play/a0vz/index.m3u8
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/tele-antioquia.jpg" , Teleantioquia HD
+https://otakon.bemtv.cn/STREAM/22588/playlist.m3u8
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/tele-antioquia.jpg" , Teleantioquia
+https://bigboss.bemtv.cn/STREAM/1020/playlist.m3u8
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/telecaribe_co.png" , Telecaribe HD
+https://otakon.bemtv.cn/STREAM/22589/playlist.m3u8
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/telecaribe_co.png" , Telecaribe
+https://bigboss.bemtv.cn/STREAM/1657/playlist.m3u8
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/teleislas.png" , Teleislas HD
+https://otakon.bemtv.cn/STREAM/22597/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/telemed2.png" , Telemedellin HD
+https://otakon.bemtv.cn/STREAM/22598/playlist.m3u8
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/telepacifico.jpg" , Telepacifico HD
+https://otakon.bemtv.cn/STREAM/22590/playlist.m3u8
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/telepacifico.jpg" , Telepacifico
+https://bigboss.bemtv.cn/STREAM/1019/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0p9.png",TyC Sports
 #EXTINF:-1 tvg-id="I435.80807.schedulesdirect.org" tvg-name="tn*t" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT
 http://45.4.169.50:8000/play/a09h

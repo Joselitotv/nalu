@@ -220,7 +220,7 @@ https://otakon.bemtv.cn/STREAM/11296/playlist.m3u8
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302666
 #EXTINF:-1 tvg-id="I304.57396.schedulesdirect.org" tvg-name="hbo family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png",HBO Family
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302667
-#EXTINF:-1 group-title="-",HISTORY
+#EXTINF:-1 tvg-id="" tvg-name="MEX: HISTORY" tvg-logo="https://docdog.top/logo/countries/mexico/historychannel.png" group-title="LAME | MEXICO VIP",  : HISTORY
 http://38.252.213.12:8000/play/a02k
 #EXTINF:-1 group-title="-",HISTORY 2 
 http://38.252.213.12:8000/play/a02l

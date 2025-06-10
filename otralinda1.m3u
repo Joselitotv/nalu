@@ -306,6 +306,8 @@ https://otakon.bemtv.cn/STREAM/22598/playlist.m3u8
 https://otakon.bemtv.cn/STREAM/22590/playlist.m3u8
 #EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/telepacifico.jpg" , Telepacifico
 https://bigboss.bemtv.cn/STREAM/1019/playlist.m3u8
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/telecafe_co.png" , Telecafe HD
+https://otakon.bemtv.cn/STREAM/22609/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0p9.png",TyC Sports
 #EXTINF:-1 tvg-id="I435.80807.schedulesdirect.org" tvg-name="tn*t" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT
 http://45.4.169.50:8000/play/a09h

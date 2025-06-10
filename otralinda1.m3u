@@ -314,7 +314,7 @@ http://190.60.34.46:9999/play/a0vs/index.m3u8
 http://190.60.34.46:9999/play/a0vz/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0p9.png",TyC Sports
 #EXTINF:-1 tvg-id="I435.80807.schedulesdirect.org" tvg-name="tn*t" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT
-http://177.93.46.163:8000/play/a00e
+http://45.4.169.50:8000/play/a09h
 #EXTINF:-1,TCM HD 
 http://181.78.14.26:8000/play/a04d
 #EXTINF:-1,TV PERU

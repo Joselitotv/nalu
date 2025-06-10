@@ -1,4 +1,4 @@
-#EXTM3U
+80#EXTM3U
 #EXTINF:-1 group-title="-",A&E HD
 http://190.119.40.74:8200/play/a0kl
 #EXTINF:-1 group-title="-",AGROTENDENCIA HD
@@ -49,7 +49,7 @@ http://38.252.213.12:8000/play/a02i
 https://livetv.topmediatv.net:443/TopMediaV2/MuwpDJdMm1/10
 #EXTINF:-1 tvg-id="CinemaxSouth.us" tvg-name="cinemax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5LVxGGnW0PWLMDnsxEfQm1NUTfQ52WOSR_Svchb7oHnXoCPaAIcL6Tk&s=10",Cinemax
 http://177.93.46.163:8000/play/a020
-#EXTINF:-1,DirecTV Sports ENCODER HD (1) ==> FOUND ON SEARCHTV.NET
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME |, : DIRECTV SPORTS
 http://38.199.6.1:17001/play/a0d0
 #EXTINF:-1,DSPORTS
 http://179.51.136.19:8000/play/DSPORTS1

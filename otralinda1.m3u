@@ -204,7 +204,7 @@ http://181.198.105.69:8111/play/a1j5
 http://38.252.213.12:8000/play/a00p
 #EXTINF:-1 group-title="-",EXITOSA HD
 http://38.252.213.12:8000/play/a05d
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://ulvis.net/CN24" , LOVE NATURE HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://ulvis.net/CN24",LOVE NATURE HD
 http://170.254.234.243:8888/play/a00r
 #EXTINF:-1 tvg-id="I217.49336.schedulesdirect.org" tvg-name="fx" tvg-logo="https://vignette.wikia.nocookie.net/iceagefanon/images/d/d7/Fx-logo.png/revision/latest?cb=20151205215619",FX
 http://177.234.230.206:8011/play/a0k5/index.m3u8
@@ -329,7 +329,7 @@ http://179.63.6.17:9000/play/a08h
 http://179.63.6.17:9000/play/a08i
 #EXTINF:-1,UNIVERSAL CRIME HD
 http://181.78.17.52:8000/play/a0u3
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://ulvis.net/3Hb0" , UNIVERSAL PREMIERE 
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://ulvis.net/3Hb0",UNIVERSAL PREMIERE 
 http://179.63.6.17:9000/play/a08j
 #EXTINF:-1,UNIVERSAL PREMIERE O HD
 http://181.78.17.52:8000/play/a0u1

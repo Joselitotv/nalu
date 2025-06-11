@@ -210,6 +210,8 @@ http://170.254.234.243:8888/play/a00r
 http://177.234.230.206:8011/play/a0k5/index.m3u8
 #EXTINF:-1 group-title="-",GARAGE TV HD
 http://38.252.213.12:8000/play/a01w
+#EXTINF:-1 group-title="-",Golden HD
+http://170.254.234.243:8888/play/a018
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoiQ_vs3tYz-7-yPug63X4XMDp8ctsZKB6fE2MPGyJlSACBvmBG3Epm8&s=10",HBO
 https://livetv.topmediatv.net:443/TopMediaV2/MuwpDJdMm1/31
 #EXTINF:-1 tvg-name="HBO2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8Xom4jPZpz-LX0yPLxUcuc90K3R7P1zC4w&usqp=CAU",HBO 2

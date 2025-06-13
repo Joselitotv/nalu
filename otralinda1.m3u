@@ -357,12 +357,13 @@ http://181.198.67.62:8000/play/a03d
 http://38.172.128.32:2233/play/a1ez
 #EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportplusco.png", Win Sports+ HD 
 http://38.191.228.9:8200/play/a0rm
-
-
-
-
-
-
-
-
-
+EXTINF:-1 tvg-id="EL CHAVO DEL 8
+http://172.93.102.119:8989/279007_.m3u8
+EXTINF:-1 tvg-id="DRAGON BALL 
+http://172.93.102.119:8989/279024_.m3u8
+EXTINF:-1 tvg-id="DRAGON BALL SUPER
+http://172.93.102.119:8989/279025_.m3u8
+EXTINF:-1 tvg-id="EL CHAPULIN COLORADO
+http://172.93.102.119:8989/279027_.m3u8
+EXTINF:-1 tvg-id="LOS SIMPSONS 
+http://172.93.102.119:8989/279041_.m3u8

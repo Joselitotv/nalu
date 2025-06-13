@@ -27,9 +27,8 @@ http://38.252.213.12:8000/play/a05t
 http://38.252.213.12:8000/play/a06y
 #EXTINF:-1 group-title="-",+CINE HD
 http://38.252.213.12:8000/play/a057
-#EXTINF:-1 group-title="-",+CINE TERROR HD
+#EXTINF:-1 group-title="-",+CINE TERROR 
 http://179.63.6.12:9000/play/a00w
-
 #EXTINF:-1 group-title="-",24 HORAS HD
 http://38.252.213.12:8000/play/a02v
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://ulvis.net/yvQB" , CARACOL HD

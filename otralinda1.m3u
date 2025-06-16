@@ -21,7 +21,7 @@ http://38.252.213.12:8000/play/a01j
 http://181.188.234.21:8000/play/a04h
 #EXTINF:-1 group-title="-",BETHEL TV HD
 http://38.252.213.12:8000/play/a008
-EXTINF:-1 group-title="-",CANELATV
+#EXTINF:-1 group-title="-",CANELATV
 https://ulvis.net/canelatv
 #EXTINF:-1 group-title="-",+CINE CLASSIC HD
 http://38.252.213.12:8000/play/a05t

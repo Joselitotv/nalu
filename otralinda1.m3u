@@ -217,7 +217,7 @@ http://170.254.234.243:8888/play/a018
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoiQ_vs3tYz-7-yPug63X4XMDp8ctsZKB6fE2MPGyJlSACBvmBG3Epm8&s=10",HBO
 https://livetv.topmediatv.net:443/TopMediaV2/MuwpDJdMm1/31
 #EXTINF:-1 tvg-name="HBO2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8Xom4jPZpz-LX0yPLxUcuc90K3R7P1zC4w&usqp=CAU",HBO 2
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302665
+http://45.5.119.24:8000/play/a01n
 #EXTINF:-1 tvg-name="HBO PLUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2sCmgBQ3pme8ph_nZoeYBh-h_fVFI_cYprhz32im6PLPqTzSuc--CDI&s=10",HBO PLUS
 https://otakon.bemtv.cn/STREAM/11296/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO EXTREME" tvg-logo="https://iili.io/HvUnRDJ.png",HBO EXTREME

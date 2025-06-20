@@ -207,7 +207,7 @@ http://38.252.213.12:8000/play/a00p
 #EXTINF:-1 group-title="-",EXITOSA HD
 http://38.252.213.12:8000/play/a05d
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://ulvis.net/CN24",LOVE NATURE HD
-http://170.254.234.243:8888/play/a00r
+http://179.51.136.19:8000/play/a1mp
 #EXTINF:-1 tvg-id="I217.49336.schedulesdirect.org" tvg-name="fx" tvg-logo="https://vignette.wikia.nocookie.net/iceagefanon/images/d/d7/Fx-logo.png/revision/latest?cb=20151205215619",FX
 http://177.234.230.206:8011/play/a0k5/index.m3u8
 #EXTINF:-1 group-title="-",GARAGE TV HD

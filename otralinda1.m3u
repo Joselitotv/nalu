@@ -256,6 +256,8 @@ http://190.61.116.155:7000/play/a0bt
 http://179.63.6.12:9000/play/a006
 #EXTINF:-1,MEZZO 
 http://185.236.230.212:9981/play/a0a5
+#EXTINF:-1,Mezzo Live HD 
+http://176.124.21.225:8000/play/a00y
 #EXTINF:-1 group-title="-",MONITV
 http://38.252.213.12:8000/play/a02s
 #EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD

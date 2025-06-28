@@ -373,6 +373,8 @@ http://38.191.228.9:8200/play/a0rm
 http://190.60.41.107:8000/play/a0fi
 #EXTINF:-1,Win Sports HD 
 http://177.93.60.26:8000/play/a02m
+#EXTINF:-1 tvg-id="Win+Futbol.co" tvg-name="Win Sports+ HD" tvg-logo="https://i.postimg.cc/LXWfBjTb/Win-Sportsm.png" group-title="DEPORTES",Win Sports+ HD
+http://streamprostk.com:2082/stkgegu/hs6329/15349
 #EXTINF:-1 tvg-name="WIN SPORTS+" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus.png" group-title="COLOMBIA",WIN SPORTS+
 http://181.198.67.62:8000/play/a03d
 #EXTINF:-1,Directv Sport+HD 

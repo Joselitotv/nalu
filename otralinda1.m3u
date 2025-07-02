@@ -55,8 +55,6 @@ http://177.93.46.163:8000/play/a020
 http://38.199.6.1:17001/play/a0d0
 #EXTINF:-1,DSPORTS
 http://179.51.136.19:8000/play/DSPORTS1
-#EXTINF:-1 tvg-id="" tvg-name=": DE PELICULA" tvg-logo="https://docdog.top/logo/countries/mexico/de-pelicula-mx.png" group-title="LAME | MEXICO VIP", : DE PELICULA
-http://190.119.40.74:8200/play/a0wr
 #EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME |, : DIRECTV SPORTS
 http://179.63.6.17:9000/play/a08e
 #EXTINF:-1 group-title="-",DSPORTS +

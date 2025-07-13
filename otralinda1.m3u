@@ -375,8 +375,8 @@ http://177.93.60.26:8000/play/a02m
 http://streamprostk.com:2082/stkgegu/hs6329/15349
 #EXTINF:-1 tvg-name="WIN SPORTS+" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus.png" group-title="COLOMBIA",WIN SPORTS+
 http://181.198.67.62:8000/play/a03d
-#EXTINF:-1,Directv Sport+HD 
-http://38.172.128.32:2233/play/a1ez
+#EXTINF:-1,Directv Sport HD 
+http://190.0.247.38:8000/play/a06a
 #EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportplusco.png", Win Sports+ HD 
 http://38.191.228.9:8200/play/a0rm
 #EXTINF:-1 tvg-id=",EL CHAVO DEL 8

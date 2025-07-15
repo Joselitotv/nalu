@@ -33,6 +33,10 @@ http://38.187.2.125:8000/play/a0dk/index.m3u8
 http://38.187.2.125:8000/play/a0mg/index.m3u8
 #EXTINF:-1 group-title="-",Cinemax
 http://38.187.2.125:8000/play/a0ns/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME |, : DIRECTV SPORTS
+http://38.199.6.1:17001/play/a0d0
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME |, : DIRECTV SPORTS
+http://179.63.6.17:9000/play/a08e
 #EXTINF:-1 group-title="-",Discovery Channel  HD
 http://38.187.2.125:8000/play/a0mc/index.m3u8
 #EXTINF:-1 group-title="-",Discovery H&H HD

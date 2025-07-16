@@ -58,27 +58,27 @@ http://38.187.2.125:8000/play/a0mn/index.m3u8
 #EXTINF:-1 group-title="-",E Entertainment
 http://38.187.2.125:8000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2
-http://38.187.2.125:8000/play/a0np/index.m3u8
+http://38.187.2.125:8000/play/a0np
 #EXTINF:-1 group-title="-",ESPN 2 HD
-http://38.187.2.125:8000/play/a0d2/index.m3u8
+http://38.187.2.125:8000/play/a0d2
 #EXTINF:-1 group-title="-",ESPN 2 HD
-http://38.187.2.125:8000/play/a0do/index.m3u8
+http://38.187.2.125:8000/play/a0do
 #EXTINF:-1 group-title="-",ESPN 3 HD
-http://38.187.2.125:8000/play/a0cy/index.m3u8
+http://38.187.2.125:8000/play/a0cy
 #EXTINF:-1 group-title="-",ESPN 4HD
-http://38.187.2.125:8000/play/a0ja/index.m3u8
+http://38.187.2.125:8000/play/a0ja
 #EXTINF:-1 group-title="-",ESPN 5HD
-http://38.187.2.125:8000/play/a0dl/index.m3u8
+http://38.187.2.125:8000/play/a0dl
 #EXTINF:-1 group-title="-",ESPN 6
-http://38.187.2.125:8000/play/a080/index.m3u8
+http://38.187.2.125:8000/play/a080
 #EXTINF:-1 group-title="-",ESPN 6HD
-http://38.187.2.125:8000/play/a0cz/index.m3u8
+http://38.187.2.125:8000/play/a0cz
 #EXTINF:-1 group-title="-",ESPN 7
-http://38.187.2.125:8000/play/a07z/index.m3u8
+http://38.187.2.125:8000/play/a07z
 #EXTINF:-1 group-title="-",ESPN HD
-http://38.187.2.125:8000/play/a0d5/index.m3u8
+http://38.187.2.125:8000/play/a0d5
 #EXTINF:-1 group-title="-",ESPN Premium HD
-http://38.187.2.125:8000/play/a0d9/index.m3u8
+http://38.187.2.125:8000/play/a0d9
 #EXTINF:-1 group-title="-",Eurochannel
 http://38.187.2.125:8000/play/a0no/index.m3u8
 #EXTINF:-1 group-title="-",FX HD
@@ -186,4 +186,4 @@ http://38.187.2.125:8000/play/a0nq/index.m3u8
 #EXTINF:-1 group-title="-",Win Sports+
 http://38.187.2.125:8000/play/a0c6/index.m3u8
 #EXTINF:-1 group-title="-",Win Sports+ HD
-http://38.187.2.125:8000/play/a0jb/index.m3u8
+http://38.187.2.125:8000/play/a0jb

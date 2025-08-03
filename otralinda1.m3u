@@ -270,3 +270,5 @@ http://38.7.204.229:8010/play/a2ci/index.m3u8
 #EXTINF:-1,Zona Latina
 http://38.7.204.229:8010/play/a2gm/index.m3u8
 
+#EXTINF:-1,Win Sports+ HD
+http://8.243.126.131:8000/play/a0kv

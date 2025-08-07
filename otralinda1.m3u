@@ -153,6 +153,8 @@ http://38.7.204.229:8010/play/a2gy/index.m3u8
 http://38.7.204.229:8010/play/a2bs/index.m3u8
 #EXTINF:-1,Los 80 y 90
 http://38.7.204.229:8010/play/a2cn/index.m3u8
+#EXTINF:-1,MEMORIAS TV HD 
+http://179.63.6.12:9000/play/a006
 #EXTINF:-1,MEGA HD
 http://38.7.204.229:8010/play/a2on/index.m3u8
 #EXTINF:-1,MTV

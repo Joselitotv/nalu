@@ -116,9 +116,10 @@ http://38.196.178.254:8093/play/a01q
 
 #EXTINF:-1,Win Sports+ HD
 http://8.243.126.131:8000/play/a0kv
+
 #EXTM3U
-#EXTINF:-1,Win Sports+ HD (1) ==> FOUND ON SEARCHTV.NET
-http://181.174.231.146:18000/play/a0ih
+#EXTINF:-1,Win Sports+ HD 
+http://179.1.199.50:9000/play/a00v
 
 
 #EXTINF:-1,Win Sports+ HD

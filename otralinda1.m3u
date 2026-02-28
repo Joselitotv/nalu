@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,SEÑAL COLOMBIA (1) ==> FOUND ON SEARCHTV.NET
+http://181.78.79.131:8000/play/a0l7
 #EXTINF:-1,AE Mundo
 http://190.217.66.92:8000/play/a0dm/index.m3u8
 #EXTINF:-1,AMC

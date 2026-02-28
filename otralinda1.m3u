@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,SEÑAL COLOMBIA (1) ==> FOUND ON SEARCHTV.NET
-http://181.78.79.131:8000/play/a0l7
 #EXTINF:-1,AE Mundo
 http://190.217.66.92:8000/play/a0dm/index.m3u8
 #EXTINF:-1,AMC
@@ -9,6 +7,8 @@ http://190.217.66.92:8000/play/a0o0/index.m3u8
 http://190.217.66.92:8000/play/a0p4/index.m3u8
 #EXTINF:-1,AXN
 http://190.217.66.92:8000/play/a0fd/index.m3u8
+#EXTINF:-1,Love Nature
+http://190.61.42.218:9000/play/a06h
 #EXTINF:-1,Animal Planet
 http://190.217.66.92:8000/play/a0ov/index.m3u8
 #EXTINF:-1,BabyFirst

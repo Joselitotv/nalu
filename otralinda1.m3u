@@ -149,3 +149,5 @@ http://190.217.66.92:8000/play/a0ny
 http://190.217.66.92:8000/play/a0oj/index.m3u8
 #EXTINF:-1,Zoom
 http://190.217.66.92:8000/play/a0ej/index.m3u8
+#EXTINF:-1,CGTN 
+http://190.60.59.67:8000/play/a0jf

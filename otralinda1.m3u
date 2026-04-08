@@ -151,3 +151,55 @@ http://190.217.66.92:8000/play/a0oj/index.m3u8
 http://190.217.66.92:8000/play/a0ej/index.m3u8
 #EXTINF:-1,CGTN 
 http://190.60.59.67:8000/play/a0jf
+#EXTINF:-1,1RBS encoder 08 bocas 01
+http://186.50.103.37:8002/play/a04a
+#EXTINF:-1,2SBT encoder 08 bocas 02 
+http://186.50.103.37:8002/play/a03o
+#EXTINF:-1,3RECORD encoder 08 bocas 03
+http://186.50.103.37:8002/play/a03p
+#EXTINF:-1,4ESPN 1 UY HD encoder 08 bocas 04
+http://186.50.103.37:8002/play/a04p
+#EXTINF:-1,5CANAL 4 HD encoder 08 bocas 05
+http://186.50.103.37:8002/play/a04r
+#EXTINF:-1,6 Dsports Premium HD encoder 08 bocas 06 
+http://186.50.103.37:8002/play/vtvp
+#EXTINF:-1,7DSPORT encoder 08 bocas 07
+http://186.50.103.37:8002/play/a04s
+#EXTINF:-1,8Ecanal 5 HD encoder 08 bocas 08
+http://186.50.103.37:8002/play/a03x
+#EXTINF:-1,A+V
+http://186.50.103.37:8002/play/a05m
+#EXTINF:-1,CARDINAL FLUS
+http://186.50.103.37:8002/play/a049
+#EXTINF:-1,Canal 10 Hd
+http://186.50.103.37:8002/play/a058
+#EXTINF:-1,DSPORTS + FLUS 2
+http://186.50.103.37:8002/play/a05r
+#EXTINF:-1,DSPORTS URUGUAY
+http://186.50.103.37:8002/play/a05q
+#EXTINF:-1,DSPORTS URUGUAY PREMIUM
+http://186.50.103.37:8002/play/a05p
+#EXTINF:-1,ENCODER
+http://186.50.103.37:8002/play/a06p
+#EXTINF:-1,KIDS BU
+http://186.50.103.37:8002/play/a042
+#EXTINF:-1,LOVE NATURE
+http://186.50.103.37:8002/play/a03z
+#EXTINF:-1,RED ZETA FLU
+http://186.50.103.37:8002/play/a045
+#EXTINF:-1,Radio Celeste T.G.
+http://186.50.103.37:8002/play/a04x
+#EXTINF:-1,Radio del Centro Brum
+http://186.50.103.37:8002/play/a053
+#EXTINF:-1,SUPERCANAL  1,5 mg
+http://186.50.103.37:8002/play/a046
+#EXTINF:-1,SUPERCANAL SRT
+http://186.50.103.37:8002/play/a03s
+#EXTINF:-1,Supercanal flusonic 2
+http://186.50.103.37:8002/play/a06d
+#EXTINF:-1,TV LUZ BU
+http://186.50.103.37:8002/play/a03y
+#EXTINF:-1,Tv Ciudad
+http://186.50.103.37:8002/play/a068/index.m3u8
+#EXTINF:-1,Tv Ciudad 1,5 megas
+http://186.50.103.37:8002/play/a069

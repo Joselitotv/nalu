@@ -211,8 +211,10 @@ http://200.110.169.127:8000/play/a0pp/index.m3u8
 http://200.110.169.127:8000/play/a0rb/index.m3u8
 #EXTINF:-1,Latina HD
 http://200.110.169.127:8000/play/a0fp/index.m3u8
+#EXTINF:-1 group-title="-",Love Nature
+http://190.61.42.218:9000/play/a06h
 #EXTINF:-1,Love Nature
-http://200.110.169.127:8000/play/a0ua/index.m3u8
+http://200.110.169.127:8000/play/a0ua
 #EXTINF:-1,MEGA HD
 http://200.110.169.127:8000/play/a0eq/index.m3u8
 #EXTINF:-1,MTV HD
@@ -381,5 +383,5 @@ http://200.110.169.127:8000/play/a03q
 http://200.110.169.127:8000/play/a0m3
 #EXTINF:-1,Zoom
 http://200.110.169.127:8000/play/a09t
-#EXTINF:-1 group-title="-",Love Nature
-http://190.61.42.218:9000/play/a06h
+
+

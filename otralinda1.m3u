@@ -364,23 +364,22 @@ http://200.110.169.127:8000/play/a0sd/index.m3u8
 #EXTINF:-1,Via X Esports
 http://200.110.169.127:8000/play/a05b/index.m3u8
 #EXTINF:-1,WIN SD
-http://200.110.169.127:8000/play/a05w/index.m3u8
+http://200.110.169.127:8000/play/a05w
 #EXTINF:-1,WIN SPORT HD
-http://200.110.169.127:8000/play/a0tf/index.m3u8
+http://200.110.169.127:8000/play/a0tf
 #EXTINF:-1,WIN++
-http://200.110.169.127:8000/play/a0sn/index.m3u8
+http://200.110.169.127:8000/play/a0sn
 #EXTINF:-1,WINSPORT 2026
-http://200.110.169.127:8000/play/a0sv/index.m3u8
+http://200.110.169.127:8000/play/a0sv
 #EXTINF:-1,Warner TV HD
-http://200.110.169.127:8000/play/a0l1/index.m3u8
+http://200.110.169.127:8000/play/a0l1
 #EXTINF:-1,Win
-http://200.110.169.127:8000/play/a0kk/index.m3u8
+http://200.110.169.127:8000/play/a0kk
 #EXTINF:-1,Win Sports+
 http://200.110.169.127:8000/play/a03q
 #EXTINF:-1,Win Sports+ HD
 http://200.110.169.127:8000/play/a0m3
 #EXTINF:-1,Zoom
-http://200.110.169.127:8000/play/a09t/index.m3u8
-
+http://200.110.169.127:8000/play/a09t
 #EXTINF:-1 group-title="-",Love Nature
 http://190.61.42.218:9000/play/a06h

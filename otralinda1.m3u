@@ -160,7 +160,7 @@ http://181.78.8.199:8000/play/a08o/index.m3u8
 #EXTINF:-1 group-title="-",ESPN EXTRA
 http://181.78.8.199:8000/play/a0do/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
-http://181.78.8.199:8000/play/a08y/index.m3u8
+http://181.78.8.199:8000/play/a08y
 #EXTINF:-1 group-title="-",ESPN5
 http://181.78.8.199:8000/play/a0bv/index.m3u8
 #EXTINF:-1 group-title="-",ESPN6

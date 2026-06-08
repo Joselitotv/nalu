@@ -434,5 +434,6 @@ http://200.110.169.127:8000/play/a0sn
 #EXTINF:-1,Win Sports+ HD
 http://200.110.169.127:8000/play/a0m3
 
-
+#EXTINF:-1 group-title="Autorizados" tvg-logo="http://astra.fibernetisp.com.co/playlist/tvg-logo/a0b2.png",Win Sports+ HD
+http://astra.fibernetisp.com.co/play/a0b2
 

@@ -337,7 +337,7 @@ http://181.78.8.199:8000/play/a0ak/index.m3u8
 http://181.78.8.199:8000/play/a0av/index.m3u8
 #EXTINF:-1 group-title="-",TELEVISA DE 3 CANALES 
 http://181.78.8.199:8000/play/a0at/index.m3u8
-#EXTINF:-1 group-title="HONDURAS" tvg-name="MC_TELEMUNDO HD",MC_TELEMUNDO HD
+#EXTINF:-1 group-title="-",MC_TELEMUNDO HD",MC_TELEMUNDO HD
 http://177.10.184.60:8002/play/a00k
 #EXTINF:-1 group-title="-",TLC
 http://181.78.8.199:8000/play/a0a3/index.m3u8

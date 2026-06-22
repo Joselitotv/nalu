@@ -204,7 +204,7 @@ http://190.60.59.67:8000/play/a0d3
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Int. América" tvg-name="Señal Colombia",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Int. América" tvg-name="Señal Colombia",Señal Colombia
-http://190.61.41.181:8000/play/a0nw/index.m3u8
+http://190.61.41.181:8000/play/a0nw
 #EXTINF:-1 group-title="-",Sony HD
 http://190.60.59.67:8000/play/a0c1
 #EXTINF:-1 group-title="-",Space HD

@@ -295,3 +295,5 @@ http://190.61.41.181:8000/play/a0r4
 http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9VPEWWT-Hi1PefS1JhMEnPPXUtLrZbOX5iig82GiLvXP/m3u8
 #EXTINF:-1,telemundo
 https://tv.notibot.cloud/hls/telemundo/stream.m3u8
+#EXTINF:-1 group-title="-",DIRECTV
+http://181.225.73.159:8000/play/a0bx

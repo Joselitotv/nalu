@@ -298,20 +298,20 @@ https://tv.notibot.cloud/hls/telemundo/stream.m3u8
 #EXTINF:-1 group-title="-",DIRECTV💪
 http://181.225.73.159:8000/play/a0bx
 #EXTINF:-1 group-title="-",DIRECTV
-http://192.99.36.78:6001/canal/dsports Dsports
+http://192.99.36.78:6001/canal/dsports 
 #EXTINF:-1 group-title="-",DIRECTV HD
-http://192.99.36.78:6001/canal/dsports-hd Dsports Hd
+http://192.99.36.78:6001/canal/dsports-hd 
 #EXTINF:-1 group-title="-",DIRECTV2
-http://192.99.36.78:6001/canal/dsports2 Dsports2
+http://192.99.36.78:6001/canal/dsports2 
 #EXTINF:-1 group-title="-",TYC SPORTS 
-http://192.99.36.78:6001/canal/tyc-sports Tyc sports
+http://192.99.36.78:6001/canal/tyc-sports 
 #EXTINF:-1 group-title="-", SPORT TV2
-http://192.99.36.78:6001/canal/sportv SporTV 2
+http://192.99.36.78:6001/canal/sportv 
 #EXTINF:-1 group-title="-", SPORT TV2
-http://192.99.36.78:6001/canal/sportv-2 SporTV 2
+http://192.99.36.78:6001/canal/sportv-2 
 #EXTINF:-1 group-title="-", SPORT TV3
-http://192.99.36.78:6001/canal/sportv-3 SporTV 3
+http://192.99.36.78:6001/canal/sportv-3 
 #EXTINF:-1 group-title="-", AZTECA 7
-http://192.99.36.78:6001/canal/azteca-7 Azteca 7
+http://192.99.36.78:6001/canal/azteca-7 
 #EXTINF:-1 group-title="-", BAND SPORT 
-http://192.99.36.78:6001/canal/band-sports Band Sports
+http://192.99.36.78:6001/canal/band-sports 

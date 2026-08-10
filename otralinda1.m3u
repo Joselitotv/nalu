@@ -427,3 +427,5 @@ https://futbol9865.ultratv13.workers.dev/deportivo111/87.m3u8
 https://futbol9865.ultratv13.workers.dev/deportivo111/107.m3u8
 #EXTINF:0,TV
 https://futbol9865.ultratv13.workers.dev/deportivo111/108.m3u8
+#EXTINF:-1 group-title="-",Win Sports+ HD
+http://158.101.39.197:40000/play/a053

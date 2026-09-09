@@ -146,9 +146,9 @@ http://190.60.45.121:8000/play/a037/index.m3u8
 #EXTINF:-1 group-title="-",Warner
 http://190.60.45.121:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="-",Win
-http://190.60.45.121:8000/play/a01g/index.m3u8
+http://190.60.45.121:8000/play/a01g
 #EXTINF:-1 group-title="-",Win Sports+ HD
-http://190.60.45.121:8000/play/a02r/index.m3u8
+http://190.60.45.121:8000/play/a02r
 #EXTINF:-1 group-title="-",Zona Latina
 http://190.60.45.121:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="-",Zoom

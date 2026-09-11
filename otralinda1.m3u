@@ -319,6 +319,8 @@ http://45.172.218.130:8000/play/a12q/index.m3u8
 http://45.172.218.130:8000/play/a11t/index.m3u8
 #EXTINF:-1,WIN ANTENA CLARO
 http://45.172.218.130:8000/play/a17h
+#EXTINF:-1,WIN + ANTENA CLARO
+http://45.172.218.226:8000/play/a17h
 #EXTINF:-1,Win
 http://45.172.218.130:8000/play/a18j
 #EXTINF:-1,Win Sport SD

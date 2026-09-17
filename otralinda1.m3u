@@ -195,6 +195,20 @@ http://45.172.218.130:8000/play/a18o/index.m3u8
 http://45.172.218.130:8000/play/a15v/index.m3u8
 #EXTINF:-1,Lifetime
 http://45.172.218.130:8000/play/a0vl/index.m3u8
+#EXTINF:-1 group-title="-",MEMORIAS CLASICC
+http://190.60.39.221:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="-",MEMORIAS CORAZON
+http://190.60.39.221:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="-",MEMORIAS FILM
+http://190.60.39.221:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="-",MEMORIAS POP
+http://190.60.39.221:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="-",MEMORIAS SALSA
+http://190.60.39.221:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="-",MEMORIAS SERIES
+http://190.60.39.221:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="-",MEMORIAS TOONS
+http://190.60.39.221:8000/play/a026/index.m3u8
 #EXTINF:-1,MEGA HD
 http://45.172.218.130:8000/play/a0ea/index.m3u8
 #EXTINF:-1,MTV HD
